@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "791c6eeefd5e139f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d728b5300d62aca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cb6e3fd35e1955e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语词义分类数据库（大学版）/50达成意志/06垃圾 废物.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce623567b2fed497",
+    "type": "split",
+    "children": [
+      {
+        "id": "adf5fd8e73842110",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cde4d52ad782da4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "256232dff04d9253",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "*effective",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "right": {
+    "id": "11b2fb48c8fbe969",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7d2cda60b8345dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af2b2a13683cb30d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "英语词义分类数据库（大学版）/50达成意志/06垃圾 废物.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45daa92b048b6b55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "43fe0478a2b44e0f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "publish:发布更改": false,
+      "obsidian-tts:Text to Speech": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6cb6e3fd35e1955e",
+  "lastOpenFiles": [
+    "英语词义分类数据库（大学版）/50达成意志/01储存 留下.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/附：主要参考资料.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/补充：相关在线资源.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/09联系作者.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/08其它想说的话.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/07编者的性格.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/06编者的故事.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/05求助信息.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/04勘误信息.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/03获取资料.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/02版权声明.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/01作品简介.md",
+    "英语词义分类数据库（大学版）/50达成意志/06垃圾 废物.md",
+    "英语词义分类数据库（大学版）/01基础领域/01政治/02国家 国土.md",
+    "本库数据.txt",
+    "英语词义分类数据库（大学版）/00总目录/000总目录全览.md",
+    "英语词义分类数据库（大学版）/02专业学科/01天文/00天文组目录.md",
+    "英语词义分类数据库（大学版）/01基础领域/01政治/00政治组目录.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/致网友.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/可能的新计划.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/09一些潦草的思考.md",
+    "英语词义分类数据库（大学版）/43因果关系/07反应 效果.md",
+    "英语词义分类数据库（大学版）/01基础领域/04法律/55合法 有效.md",
+    "英语词义分类数据库（大学版）/43因果关系/08力量 能力.md",
+    "英语词义分类数据库（大学版）/02专业学科/04几何/00几何组目录.md",
+    "英语词义分类数据库（大学版）/02专业学科/04几何/01图形 形状.md",
+    "英语词义分类数据库（大学版）/50达成意志/03应用 使用.md",
+    "英语词义分类数据库（大学版）/附件图片/微信二群.jpg",
+    "英语词义分类数据库（大学版）/附件图片/微信一群.jpg",
+    "英语词义分类数据库（大学版）/附件图片/移植.jpg",
+    "英语词义分类数据库（大学版）/附件图片/支付宝收款码.jpg",
+    "英语词义分类数据库（大学版）/附件图片/住院搬砖.jpg",
+    "英语词义分类数据库（大学版）/附件图片/收款码.jpg",
+    "英语词义分类数据库（大学版）/附件图片/微信收款码.jpg",
+    "收款码1.jpg",
+    "收款码2.jpg",
+    "英语词义分类数据库（大学版）/附件图片/病历图片.jpg",
+    "英语词义分类数据库（大学版）/附件图片"
+  ]
+}
