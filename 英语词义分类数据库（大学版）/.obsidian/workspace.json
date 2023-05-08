@@ -11,8 +11,12 @@
             "id": "6cb6e3fd35e1955e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "英语词义分类数据库（大学版）/01基础领域/02经济/25罢工 失业.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "internst",
+                "query": "民职工作",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,8 +56,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "f42ede080cb32c4b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -73,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "英语词义分类数据库（大学版）/01基础领域/02经济/25罢工 失业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,8 +136,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6cb6e3fd35e1955e",
+  "active": "256232dff04d9253",
   "lastOpenFiles": [
+    "英语词义分类数据库（大学版）/01基础领域/02经济/24职业 专业 劳动 事业.md",
     "英语词义分类数据库（大学版）/0本资料库基本信息/04勘误信息.md",
     "英语词义分类数据库（大学版）/0本资料库基本信息/03获取资料.md",
     "英语词义分类数据库（大学版）/0本资料库基本信息/附：主要参考资料.md",
@@ -150,7 +165,6 @@
     "英语词义分类数据库（大学版）/0本资料库基本信息/可能的新计划.md",
     "英语词义分类数据库（大学版）/0本资料库基本信息/09一些潦草的思考.md",
     "英语词义分类数据库（大学版）/43因果关系/07反应 效果.md",
-    "英语词义分类数据库（大学版）/01基础领域/04法律/55合法 有效.md",
     "英语词义分类数据库（大学版）/附件图片/微信二群.jpg",
     "英语词义分类数据库（大学版）/附件图片/微信一群.jpg",
     "英语词义分类数据库（大学版）/附件图片/移植.jpg",
